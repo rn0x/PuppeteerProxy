@@ -6,7 +6,6 @@ Puppeteer Proxy is a lightweight web proxy built with Node.js and Puppeteer and 
 
 ## Features
 
-- Capture web page contents using Puppeteer.
 - Return HTML content of web pages..
 - Measure response time for web pages.
 - Easy to install and configure.
