@@ -1,0 +1,22 @@
+{
+  "name": "puppeteerproxy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Puppeteer Proxy is a lightweight web proxy built with Node.js and Puppeteer and Express, designed to return HTML content from web pages using a headless Chrome browser.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "rm0x",
+  "license": "MIT",
+  "dependencies": {
+    "absolutify": "^0.1.0",
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "express": "^4.18.3",
+    "fs-extra": "^11.2.0",
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.4.1"
+  }
+}
